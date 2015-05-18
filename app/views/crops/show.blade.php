@@ -1,0 +1,1 @@
+/var/www/app/views/crops/show.blade.php
